@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265568157352",
+    "firebase_url": "https://finalproject-2d2d7.firebaseio.com",
+    "project_id": "finalproject-2d2d7",
+    "storage_bucket": "finalproject-2d2d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265568157352:android:cf9c7e94fc3cb7df",
+        "android_client_info": {
+          "package_name": "com.example.rashminpc.firebase_arduino_android_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265568157352-b1c7gutri61hd2f6trme0pavl04s9cfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rashminpc.firebase_arduino_android_demo_app",
+            "certificate_hash": "af2f747ba780f6077b24b80e9a5793ae623133b5"
+          }
+        },
+        {
+          "client_id": "265568157352-0s21k0da7e0cc4absok93gjiu3nmjlpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUGfRc36F2SySHE0Xt8Sb16Lzlj5D4G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265568157352-0s21k0da7e0cc4absok93gjiu3nmjlpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

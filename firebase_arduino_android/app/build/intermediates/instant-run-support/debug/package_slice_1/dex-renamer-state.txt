@@ -1,0 +1,4 @@
+#Fri May 03 14:12:25 IST 2019
+base.0=D\:\\LED\\ardunino demo\\firebase_arduino_android_demo_app-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=D\:\\LED\\ardunino demo\\firebase_arduino_android_demo_app-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex
